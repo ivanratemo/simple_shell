@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/*strtow - splits a string into words. Repeat delimiters are ignored */
+/*strtow -splits a string into words. Repeat delimiters are ignored */
 
 char **strtow(char *str, char *d)
 {
